@@ -1,1 +1,10 @@
-this is my memo
+Software Configuration Management is the idea that every change made to a file within the code bank is monitored and organized throughout the software development lifecycle. 
+It is so essential due to its ability to allow programmers to develop anywhere and anytime, even simultaneously across the globe. Configuration Management software such as GitHub 
+or GitLab are essential to the modern programmer for a variety of reasons. The first is they allow a version control system that allows different development branches within the 
+same project. As I previously stated version control allows different programmers to all develop worry free at the same time from everywhere in the globe and the software keeps 
+track of versions and merges. If there is a direct conflict on one line the programmers simply merge it themselves. Branching allows for programmers to make cheap and copies of 
+a project and test specific things and merge later when they work. This style of branching allows teams to keep a solid stable build of their code published at all time while 
+also experimenting on a separate branch. This style of version control is known as a baseline. In the scenario above the baseline would be the stable release on the main branch 
+while the development branch is still being worked on. Another Piece of Configuration Management is Configuration Identification. Configuration Identification is all about classifying 
+the scope of a project in a way that is clear so even those that do not fully understand the nitty gritty of the project are able to have a clear idea of the goal is and what 
+is happening. 
