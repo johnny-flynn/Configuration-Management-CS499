@@ -1,3 +1,8 @@
+To: Dr. Hayes
+From: John Flynn
+Subject: GitHub Memo
+Date: 2/5/2020
+
 Software Configuration Management is the idea that every change made to a file within the code bank is monitored and organized throughout the software development lifecycle. 
 It is so essential due to its ability to allow programmers to develop anywhere and anytime, even simultaneously across the globe. Configuration Management software such as GitHub 
 or GitLab are essential to the modern programmer for a variety of reasons. The first is they allow a version control system that allows different development branches within the 
